@@ -1,0 +1,21 @@
+h1
+{
+  color: rgb(21, 188, 77);
+}
+h2
+{
+  color: rgb(43, 153, 54);
+}
+img{
+  height:200px;
+  width:220px;
+  border:2px solid black;
+}
+h3
+{
+  color:rgb(52, 191, 103);
+}
+div{
+  display:flex;
+  justify-content: space-between;
+}
